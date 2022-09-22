@@ -69,3 +69,15 @@ table.table_singers th {
     background-color:darkred;
     color: white;
 }
+
+h5.PATIENCE:hover{
+    text-shadow: 2px 3px 4px chocolate;
+    border-style:solid;
+    color:darkslategrey;
+}
+
+h5.GROSS:hover{
+    text-shadow: 2px 3px 4px cornflowerblue;
+    border-style:double;
+    color:olive;
+}
